@@ -127,10 +127,10 @@ blackjack/
 <img src="FINAL_PROJECT_BLACKJACK/Blackjack_Group/Screenshots/BlackJAck2.png" width="500"/>
 
 ### 🏆 Game Result
-<img src="FINAL_PROJECT_BLACKJACK/Blackjack_Group/Screenshots/BlackJAck3.png" width="500"/>
+<img src="FINAL_PROJECT_BLACKJACK/Blackjack_Group/Screenshots/BlackJack3.png" width="500"/>
 
 ### 🃏 Dealer Play
-<img src="FINAL_PROJECT_BLACKJACK/Blackjack_Group/Screenshots/BlackJAck4.png" width="500"/>
+<img src="FINAL_PROJECT_BLACKJACK/Blackjack_Group/Screenshots/BlackJack4.png" width="500"/>
 
 ---
 
