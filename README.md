@@ -165,7 +165,7 @@ blackjack/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/blackjack-game.git
+   git clone https://github.com/SheridanJustin/BlackJack.git
    ```
 
 2. Open in IDE (IntelliJ / Eclipse recommended)
