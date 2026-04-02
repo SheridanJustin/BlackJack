@@ -6,6 +6,20 @@ Developed as part of a Software Development & Network Engineering program.
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="FINAL_PROJECT_BLACKJACK/Blackjack_Group/Screenshots/BlackJAck1.png" width="45%"/>
+  <img src="FINAL_PROJECT_BLACKJACK/Blackjack_Group/Screenshots/BlackJAck2.png" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="FINAL_PROJECT_BLACKJACK/Blackjack_Group/Screenshots/BlackJack3.png" width="45%"/>
+  <img src="FINAL_PROJECT_BLACKJACK/Blackjack_Group/Screenshots/BlackJack4.png" width="45%"/>
+</p>
+
+---
+
 ## 🚀 Features
 
 * 🎮 **Full Blackjack Gameplay**
@@ -74,7 +88,7 @@ blackjack/
   * Game state transitions
   * Result calculation and display
 
-### 💸 Betting सिस्टम
+### 💸 Betting System
 
 * JavaFX-based popup window
 * Slider-based bet selection
@@ -118,25 +132,7 @@ blackjack/
 
 ---
 
-## 📸 Screenshots
-
-### 🎮 Gameplay
-<img src="FINAL_PROJECT_BLACKJACK/Blackjack_Group/Screenshots/BlackJAck1.png" width="500"/>
-
-### 💰 Betting System
-<img src="FINAL_PROJECT_BLACKJACK/Blackjack_Group/Screenshots/BlackJAck2.png" width="500"/>
-
-### 🏆 Game Result
-<img src="FINAL_PROJECT_BLACKJACK/Blackjack_Group/Screenshots/BlackJack3.png" width="500"/>
-
-### 🃏 Dealer Play
-<img src="FINAL_PROJECT_BLACKJACK/Blackjack_Group/Screenshots/BlackJack4.png" width="500"/>
-
----
-
 ## 👨‍💻 Author
 
 **Justin Kadyrov**
 Software Development & Network Engineering Graduate
-
-
