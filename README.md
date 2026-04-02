@@ -120,17 +120,17 @@ blackjack/
 
 ## 📸 Screenshots
 
-*(Add screenshots here if you want — highly recommended for GitHub)*
+### 🎮 Gameplay
+<img src="Screenshots/BlackJAck1.png" width="500"/>
 
----
+### 💰 Betting System
+<img src="Screenshots/BlackJAck2.png" width="500"/>
 
-## 📈 Future Improvements
+### 🏆 Game Result
+<img src="Screenshots/BlackJAck3.png" width="500"/>
 
-* Add **player balance persistence**
-* Implement **multiple decks**
-* Add **split / double down functionality**
-* Improve UI/UX with animations
-* Deploy as a standalone executable
+### 🃏 Dealer Play
+<img src="Screenshots/BlackJAck4.png" width="500"/>
 
 ---
 
