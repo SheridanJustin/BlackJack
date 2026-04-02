@@ -187,5 +187,3 @@ blackjack/
 ## 👨‍💻 Author
 
 **Justin Kadyrov**
-Software Development & Network Engineering Graduate
-AWS Certified Solutions Architect – Associate (SAA-C03)
