@@ -121,16 +121,16 @@ blackjack/
 ## 📸 Screenshots
 
 ### 🎮 Gameplay
-<img src="Screenshots/BlackJAck1.png" width="500"/>
+<img src="FINAL_PROJECT_BLACKJACK/Blackjack_Group/Screenshots/BlackJAck1.png" width="500"/>
 
 ### 💰 Betting System
-<img src="Screenshots/BlackJAck2.png" width="500"/>
+<img src="FINAL_PROJECT_BLACKJACK/Blackjack_Group/Screenshots/BlackJAck2.png" width="500"/>
 
 ### 🏆 Game Result
-<img src="Screenshots/BlackJAck3.png" width="500"/>
+<img src="FINAL_PROJECT_BLACKJACK/Blackjack_Group/Screenshots/BlackJAck3.png" width="500"/>
 
 ### 🃏 Dealer Play
-<img src="Screenshots/BlackJAck4.png" width="500"/>
+<img src="FINAL_PROJECT_BLACKJACK/Blackjack_Group/Screenshots/BlackJAck4.png" width="500"/>
 
 ---
 
