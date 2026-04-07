@@ -48,24 +48,39 @@ The goal of this project was to recreate a classic casino experience with a clea
 
 ---
 
+---
+
 ## 🏗️ Project Structure
-``
+
+```id="full-structure"
 blackjack/
 │
-├── Main_Login.java # Entry point (launches login screen)
-├── LoginController.java # Handles login & registration logic
+├── Main_Login.java         # Entry point (launches login screen)
+├── LoginController.java   # Handles login & registration logic
 │
-├── BlackjackUI.java # Main JavaFX game UI & controller
-├── bettingApp.java # Betting window launcher
+├── BlackjackUI.java       # Main JavaFX game UI & controller
+├── bettingApp.java        # Betting window launcher
 ├── bettingController.java # Betting system logic
 │
-├── Player.java # Player logic (hit, score, UI updates)
-├── Dealer.java # Dealer AI logic (rules-based play)
-├── Hand.java # Manages player/dealer hands & values
-├── Deck.java # Deck creation, shuffle, and dealing
-├── Card.java # Card model (suit, value, images)
+├── Player.java            # Player logic (hit, score, UI updates)
+├── Dealer.java            # Dealer AI logic (rules-based play)
+├── Hand.java              # Manages player/dealer hands & values
+├── Deck.java              # Deck creation, shuffle, and dealing
+├── Card.java              # Card model (suit, value, images)
 │
 └── resources/
-├── cards/ # Card images used in UI
-└── blackjack.fxml # UI layout files (FXML)
-``
+    ├── cards/             # Card images used in UI
+    └── blackjack.fxml     # UI layout files (FXML)
+```
+
+---
+
+
+
+
+
+
+
+
+
+
