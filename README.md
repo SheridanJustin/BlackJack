@@ -13,9 +13,9 @@
 
 ## Blackjack
 
-This is a fully interactive **Blackjack desktop application** I built using **Java and JavaFX**.
+This is a fully interactive Blackjack desktop application I built using Java and JavaFX.
 
-The goal of this project was to recreate a classic casino experience with a clean UI while learning **object-oriented design, UI development, and game logic**. It includes everything from real gameplay mechanics to betting and user accounts.
+The goal of this project was to recreate a classic casino experience with a clean UI while learning object-oriented design, UI development, and game logic. It includes everything from real gameplay mechanics to betting and user accounts.
 
 ---
 
