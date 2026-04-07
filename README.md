@@ -48,7 +48,6 @@ The goal of this project was to recreate a classic casino experience with a clea
 
 ---
 
----
 
 ## 🏗️ Project Structure
 
