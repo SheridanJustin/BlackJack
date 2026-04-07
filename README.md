@@ -1,6 +1,6 @@
-# 🃏 Blackjack – Desktop Game
+#  Blackjack – Desktop Game
 
-## 📸 Preview
+## Preview
 
 <p align="center">
   <img src="FINAL_PROJECT_BLACKJACK/Blackjack_Group/Screenshots/BlackJAck1.png" width="24%"/>
@@ -49,7 +49,7 @@ The goal of this project was to recreate a classic casino experience with a clea
 ---
 
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```id="full-structure"
 blackjack/
